@@ -1,6 +1,7 @@
 # 🧠 RarCental – Where you can find your CARS
 
-**RarCental** is a full-stack web platform where admins can list cars for rent, and users can browse, view details, and book their dream ride in just a few clicks. Whether you need a ride for a day or a weekend getaway — RarCental’s got your back bumper-to-bumper.
+<p>**RarCental** is a full-stack web platform where admins can list cars for rent, and users can browse, view details, and book their dream ride in just a few clicks. Whether you need a ride for a day or a weekend getaway — RarCental’s got your back bumper-to-bumper.</p>
+
 ---
 
 ## 🌟 Features
