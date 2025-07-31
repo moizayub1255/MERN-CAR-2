@@ -40,7 +40,7 @@
 
 ```sh
 git clone https://github.com/moizayub1255/MERN-CAR-2.git
-cd Talaash
+cd MERN-CAR-2
 ```
 
 ### Frontend Setup
@@ -98,7 +98,5 @@ And countless console.log() moments that saved the day 😅
 
 Let me know if you want to add:
 - Badges (build passing, license, etc.)
-- Live Demo link
-- https://talaash-ucp.vercel.app
 
 And we’ll make it shine brighter than a 100-watt LED 😎💡
